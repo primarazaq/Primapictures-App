@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/drawable-v24/user2.xml" value="0.2505" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/drawable/bg_btn.xml" value="0.113" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/drawable/bg_edittext.xml" value="0.113" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/drawable/email.xml" value="0.113" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/drawable/lock.xml" value="0.113" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/drawable/logout.xml" value="0.2505" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/drawable/search.xml" value="0.2505" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/drawable/user.xml" value="0.2505" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/drawable/user2.xml" value="0.2505" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/AKBTugas1IF310119124/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

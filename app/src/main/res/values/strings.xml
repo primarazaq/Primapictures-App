@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AKB Tugas1 IF3 10119124</string>
+    <string name="splashscreen">splashscreen</string>
+    <string name="logo">logo</string>
+    <string name="primapictures_app">Primapictures app</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="register_a_new_account">Register a new account</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="user">user</string>
+    <string name="cari_photographer_videographer_terdekat"><![CDATA[cari photographer & videographer terdekat]]></string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="_10119124_primarazaq_nph_if3">10119124 - Primarazaq NPH - IF3</string>
+    <string name="primarazaq_merupakan_mahasiswa_gabut_di_universitas_komputer_dengan_program_studi_teknik_informatika_prima_juga_memiliki_usaha_di_bidang_photography_dan_videography">Primarazaq merupakan mahasiswa gabut di Universitas Komputer dengan program studi Teknik Informatika. Prima juga memiliki usaha di bidang Photography dan Videography.</string>
+    <string name="line">______</string>
+    <string name="my_profile">My Profile</string>
+    <string name="todo">TODO</string>
+    <string name="_21_02_2022_10119124_primarazaq_nph_if_3">21-02-2022 10119124 Primarazaq NPH IF-3</string>
+</resources>
